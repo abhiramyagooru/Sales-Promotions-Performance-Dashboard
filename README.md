@@ -1,3 +1,4 @@
+
 # Sales-Promotions-Dashboard
 
 ### Dashboard Link : (https://app.powerbi.com/groups/dfc7ff87-aad0-4ae5-9a97-2c713551f2b2/reports/ac095f29-69f3-45de-820f-84b91e58b766/af2d0f6290058ea94bd8?experience=power-bi)
@@ -67,20 +68,18 @@ CALCULATE(
 
 # Report Pages / Snapshots
 
-*(Add screenshots of each page here — Overview, Top and Bottom, Sales & Profit, Promotions)*
 
 ## Overview
-![Overview](add-screenshot-link-here)
+<img width="1377" height="812" alt="Image" src="https://github.com/user-attachments/assets/8c35fba1-c389-486e-b62f-4f6515453c07" />
 
 ## Top and Bottom
 ![Top and Bottom](add-screenshot-link-here)
 
 ## Sales & Profit
-![Sales & Profit](add-screenshot-link-here)
+![Sales & Profit](https://github.com/user-attachments/assets/1b19e819-dd8f-47ad-bda9-33b22493eb02)
 
 ## Promotions
 ![Promotions](add-screenshot-link-here)
-
 # Insights
 
 A four-page report was created in Power BI Desktop and published to Power BI Service.
