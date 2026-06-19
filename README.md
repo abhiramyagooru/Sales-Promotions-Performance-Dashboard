@@ -1,4 +1,5 @@
 
+
 # Sales-Promotions-Dashboard
 
 ### Dashboard Link : (https://app.powerbi.com/groups/dfc7ff87-aad0-4ae5-9a97-2c713551f2b2/reports/ac095f29-69f3-45de-820f-84b91e58b766/af2d0f6290058ea94bd8?experience=power-bi)
@@ -69,22 +70,23 @@ CALCULATE(
 # Report Pages / Snapshots
 
 
+
 ## Overview
-<img width="1377" height="812" alt="Image" src="https://github.com/user-attachments/assets/8c35fba1-c389-486e-b62f-4f6515453c07" />
+![Overview](https://github.com/user-attachments/assets/2cf25ad9-7778-42f5-a449-b259afd5b54c)
 
 ## Top and Bottom
-![Top and Bottom](add-screenshot-link-here)
+![Top and Bottom](https://github.com/user-attachments/assets/e9dc4b80-5a2b-48d8-be35-4e8e4b2ed735)
 
 ## Sales & Profit
-![Sales & Profit](https://github.com/user-attachments/assets/1b19e819-dd8f-47ad-bda9-33b22493eb02)
+![Sales & Profit](https://github.com/user-attachments/assets/ee182739-2c4e-45c5-aafd-85014875eefc)
 
 ## Promotions
-![Promotions](add-screenshot-link-here)
+![Promotions](https://github.com/user-attachments/assets/85678c87-1a48-4c58-af86-65859dd41e41)
 # Insights
 
 A four-page report was created in Power BI Desktop and published to Power BI Service.
 
-The following can be explored through the dashboard (fill in with your actual numbers once finalized):
+The following can be explored through the dashboard :
 
 ### [1] Top/Bottom Performers
 - Top and bottom 5 products by Net Sales, Units Sold, and Profit are surfaced on the **Top and Bottom** page, making it easy to identify best sellers and underperformers at a glance.
@@ -115,5 +117,4 @@ The following can be explored through the dashboard (fill in with your actual nu
 3. If using a live data connection, update credentials under **Transform Data → Data Source Settings**
 4. Refresh data and explore
 
-## License
-Add your preferred license here (e.g., MIT).
+
