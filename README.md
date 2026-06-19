@@ -1,6 +1,6 @@
 # Sales-Promotions-Dashboard
 
-### Dashboard Link : [[Add your Power BI Service report link here]](https://app.powerbi.com/groups/dfc7ff87-aad0-4ae5-9a97-2c713551f2b2/reports/ac095f29-69f3-45de-820f-84b91e58b766/af2d0f6290058ea94bd8?experience=power-bi)
+### Dashboard Link : (https://app.powerbi.com/groups/dfc7ff87-aad0-4ae5-9a97-2c713551f2b2/reports/ac095f29-69f3-45de-820f-84b91e58b766/af2d0f6290058ea94bd8?experience=power-bi)
 
 ## Problem Statement
 
